@@ -16,6 +16,7 @@ public class Week3Thursday {
      */
     public static void main(String[] args) {
         System.out.println("Pull example...");
+        System.out.println("Fetch and merge");
     }
     
 }
